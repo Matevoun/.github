@@ -28,5 +28,5 @@ Si vous appréciez mon travail de maintenance ou que vous souhaitez soutenir la 
 Retrouvez l'intégralité de mes réseaux, fiches et coordonnées complètes sur mon [Microsite Personnel](https://mathieu.charreyre.net).
 
 * 💼 **Pro :** [LinkedIn](https://www.linkedin.com/in/matevoun/)
-* 👾 **Gaming :** Code ami Nintendo Switch : `SW-2853-2896-4976` | Steam | Xbox
-* 💬 **Direct :** [WhatsApp](https://wa.me/33611533069) | Telegram | Discord
+* 👾 **Gaming :** [Xbox](https://www.xbox.com/fr-FR/play/user/Matevoun) | Code ami Nintendo Switch : `SW-2853-2896-4976` | [Steam](https://steamcommunity.com/id/ZeCasio/)
+* 💬 **Direct :** [WhatsApp](https://wa.me/33611533069) | [Telegram](https://telegram.me/Matevoun) | [Discord](https://discord.com/users/370527223146348544)
