@@ -1,15 +1,6 @@
-# ↪ Mathieu CHARREYRE (Matevoun) ↩
-### 💾 Digital Self-made Man — Online since 1993 !
+# ⚙️ Profil de Configuration Globale (.github)
 
-Bienvenue sur mon profil ! Passionné d'informatique, de tech et de préservation depuis le début des années 90, je consacre une grande partie de mon temps libre à faire vivre le patrimoine numérique de manière totalement bénévole.
-
----
-
-## 🛠 Ce que je fais 
-
-* **👨‍💼 Activité :** Gérant bénévole du [Domaine Saint-Antonin](https://saint-antonin.net).
-* **🏛️ Préservation :** Président-fondateur de l'[Association WDA](https://wda-fr.org) (depuis 1988, nous collectons, restaurons et préservons l'histoire informatique).
-* **🎮 Rétro-communauté :** Président co-fondateur du [Club-Replugged](https://www.club-inter.net) (Les Anciens de Club-Internet).
+Ce dépôt technique est utilisé pour centraliser les fichiers de configuration globaux du compte de @Matevoun, notamment le bouton **Sponsor** (`FUNDING.yml`) lié à l'association **WDA**.
 
 ---
 
