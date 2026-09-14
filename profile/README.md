@@ -1,16 +1,32 @@
-## Hi there 👋
+# ↪ Mathieu CHARREYRE (Matevoun) ↩
+### 💾 Digital Self-made Man — Online since 1993 !
 
-<!--
-**Matevoun/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil ! Passionné d'informatique, de tech et de préservation depuis le début des années 90, je consacre une grande partie de mon temps libre à faire vivre le patrimoine numérique de manière totalement bénévole.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Ce que je fais 
+
+* **👨‍💼 Activité :** Gérant bénévole du [Domaine Saint-Antonin](https://saint-antonin.net).
+* **🏛️ Préservation :** Président-fondateur de l'[Association WDA](https://wda-fr.org) (depuis 1988, nous collectons, restaurons et préservons l'histoire informatique).
+* **🎮 Rétro-communauté :** Président co-fondateur du [Club-Replugged](https://www.club-inter.net) (Les Anciens de Club-Internet).
+
+---
+
+## 🤍 Soutenir mes projets & l'Association WDA
+
+Le code et les outils que je partage ici (comme mes extensions de centralisation ou traductions phpBB) sont mis à disposition gratuitement.
+Si vous appréciez mon travail de maintenance ou que vous souhaitez soutenir la sauvegarde du patrimoine informatique de la **WDA**, vous pouvez faire un don directement sur les plateformes officielles de l'association :
+
+* 🧧 **HelloAsso WDA :** [Faire un don sur HelloAsso](https://www.helloasso.com/associations/association-wda/formulaires/1)
+* 💳 **PayPal WDA :** [Soutenir via PayPal](https://www.paypal.com/donate/?hosted_button_id=DZRY58WUANTAJ)
+
+---
+
+## 📬 Me retrouver ailleurs
+
+Retrouvez l'intégralité de mes réseaux, fiches et coordonnées complètes sur mon [Microsite Personnel](https://mathieu.charreyre.net).
+
+* 💼 **Pro :** [LinkedIn](https://www.linkedin.com/in/matevoun/)
+* 👾 **Gaming :** Code ami Nintendo Switch : `SW-2853-2896-4976` | Steam | Xbox
+* 💬 **Direct :** [WhatsApp](https://wa.me/33611533069) | Telegram | Discord
