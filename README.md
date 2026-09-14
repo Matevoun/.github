@@ -7,18 +7,19 @@ Bienvenue sur mon profil ! Passionné d'informatique, de tech et de préservatio
 
 ## 🛠 Ce que je fais 
 
-* **👨‍💼 Activité :** Gérant du [Domaine Saint-Antonin](https://mathieu.charreyre.net).
+* **👨‍💼 Activité :** Gérant bénévole du [Domaine Saint-Antonin](https://saint-antonin.net).
 * **🏛️ Préservation :** Président-fondateur de l'[Association WDA](https://wda-fr.org) (depuis 1988, nous collectons, restaurons et préservons l'histoire informatique).
-* **🎮 Rétro-communauté :** Président co-fondateur du [Club-Replugged](https://mathieu.charreyre.net) (Les Anciens de Club-Internet).
+* **🎮 Rétro-communauté :** Président co-fondateur du [Club-Replugged](https://www.club-inter.net) (Les Anciens de Club-Internet).
 
 ---
 
 ## 🤍 Soutenir mes projets & l'Association WDA
 
-Le code et les outils que je partage ici (comme mes extensions de centralisation ou traductions phpBB) sont mis à disposition gratuitement. Si vous appréciez mon travail de maintenance ou que vous souhaitez soutenir la sauvegarde du patrimoine informatique de la WDA, vous pouvez faire un don directement sur les plateformes officielles de l'association :
+Le code et les outils que je partage ici (comme mes extensions de centralisation ou traductions phpBB) sont mis à disposition gratuitement.
+Si vous appréciez mon travail de maintenance ou que vous souhaitez soutenir la sauvegarde du patrimoine informatique de la **WDA**, vous pouvez faire un don directement sur les plateformes officielles de l'association :
 
-* 🧧 **HelloAsso WDA :** [Faire un don sur HelloAsso](https://helloasso.com)
-* 💳 **PayPal WDA :** [Soutenir via PayPal](https://paypal.com)
+* 🧧 **HelloAsso WDA :** [Faire un don sur HelloAsso]([https://helloasso.com](https://www.helloasso.com/associations/association-wda/formulaires/1))
+* 💳 **PayPal WDA :** [Soutenir via PayPal]([https://paypal.com](https://www.paypal.com/donate/?hosted_button_id=DZRY58WUANTAJ))
 
 ---
 
@@ -26,6 +27,6 @@ Le code et les outils que je partage ici (comme mes extensions de centralisation
 
 Retrouvez l'intégralité de mes réseaux, fiches et coordonnées complètes sur mon [Microsite Personnel](https://mathieu.charreyre.net).
 
-* 💼 **Pro :** [LinkedIn](https://mathieu.charreyre.net)
+* 💼 **Pro :** [LinkedIn](https://www.linkedin.com/in/matevoun/)
 * 👾 **Gaming :** Code ami Nintendo Switch : `SW-2853-2896-4976` | Steam | Xbox
-* 💬 **Direct :** WhatsApp | Telegram | Discord
+* 💬 **Direct :** [WhatsApp](https://wa.me/33611533069) | Telegram | Discord
