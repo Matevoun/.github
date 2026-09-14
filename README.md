@@ -18,8 +18,8 @@ Bienvenue sur mon profil ! Passionné d'informatique, de tech et de préservatio
 Le code et les outils que je partage ici (comme mes extensions de centralisation ou traductions phpBB) sont mis à disposition gratuitement.
 Si vous appréciez mon travail de maintenance ou que vous souhaitez soutenir la sauvegarde du patrimoine informatique de la **WDA**, vous pouvez faire un don directement sur les plateformes officielles de l'association :
 
-* 🧧 **HelloAsso WDA :** [Faire un don sur HelloAsso]([https://helloasso.com](https://www.helloasso.com/associations/association-wda/formulaires/1))
-* 💳 **PayPal WDA :** [Soutenir via PayPal]([https://paypal.com](https://www.paypal.com/donate/?hosted_button_id=DZRY58WUANTAJ))
+* 🧧 **HelloAsso WDA :** [Faire un don sur HelloAsso](https://www.helloasso.com/associations/association-wda/formulaires/1)
+* 💳 **PayPal WDA :** [Soutenir via PayPal](https://www.paypal.com/donate/?hosted_button_id=DZRY58WUANTAJ)
 
 ---
 
